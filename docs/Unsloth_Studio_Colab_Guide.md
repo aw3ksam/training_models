@@ -1,5 +1,10 @@
 # Unsloth Studio in Google Colab: A Step-by-Step Guide
 
+> [!IMPORTANT]
+> This guide specifically covers **Unsloth STUDIO**. 
+> - If you are looking for information on different models or specific use cases, please visit the [Unsloth Notebooks GitHub repository](https://github.com/unslothai/notebooks) for a wide range of Google Colab examples.
+> - For additional official information, you can also visit the [Unsloth Studio Documentation](https://unsloth.ai/docs/new/studio).
+
 This guide will walk you through setting up and fine-tuning an LLM using the Unsloth Studio in Google Colab.
 
 > **Colab Link:** [Unsloth Studio Colab Notebook](https://colab.research.google.com/github/unslothai/unsloth/blob/main/studio/Unsloth_Studio_Colab.ipynb)
