@@ -71,3 +71,14 @@ python md_to_dataset.py --input-dir ./Data --output ./Data/training_data.jsonl
 # Specify topic and format
 python md_to_dataset.py --topic "my product manual" --format alpaca
 ```
+
+## Fine-tuning with Unsloth Studio (Google Colab)
+
+If you have a GPU available via Google Colab, you can use Unsloth Studio for a more interactive fine-tuning experience:
+
+1. **Setup:** Open the [Unsloth Studio Colab Notebook](https://colab.research.google.com/github/unslothai/unsloth/blob/main/studio/Unsloth_Studio_Colab.ipynb) and run the first cell to install dependencies.
+2. **Launch:** Run the "Start Unsloth Studio" cell and click the **Open Unsloth Studio** button.
+3. **Train:** Upload your `.jsonl` dataset, configure your model settings, and begin the fine-tuning process.
+4. **Export:** Once finished, export your model as a LoRA adapter or GGUF for deployment.
+
+For a detailed step-by-step walkthrough with images, check out the [Full Unsloth Studio Colab Guide](docs/Unsloth_Studio_Colab_Guide.md).
