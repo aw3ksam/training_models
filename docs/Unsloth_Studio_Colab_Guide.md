@@ -28,11 +28,13 @@ Before you begin, you will need a Hugging Face token to download base models and
 ## Step 1: Set Up the Colab Environment
 1. Open the Unsloth Studio Colab Notebook linked above.
 2. Locate the **Setup: Clone repo and run setup** section. Click the **Play** button on the first cell to install the necessary dependencies.
+
 ![Step 3](Unsloth_GoogleColab_Visual_Guide/asset/Unsloth_STUDIO_GoogleColab_Step-3.jpg)
 
 ![Step 4](Unsloth_GoogleColab_Visual_Guide/asset/Unsloth_STUDIO_GoogleColab_Step-4.jpg)
 
 3. Wait for the setup to complete. You will see an `Unsloth Studio Setup Complete` message in the output once it finishes.
+
 ![Step 5](Unsloth_GoogleColab_Visual_Guide/asset/Unsloth_STUDIO_GoogleColab_Step-5.jpg)
 
 ---
@@ -49,6 +51,7 @@ Before you begin, you will need a Hugging Face token to download base models and
 ![Step 8](Unsloth_GoogleColab_Visual_Guide/asset/Unsloth_STUDIO_GoogleColab_Step-8.jpg)
 
 3. You will be greeted by an account setup screen. Enter and confirm a new password to secure your local session.
+
 ![Step 9](Unsloth_GoogleColab_Visual_Guide/asset/Unsloth_STUDIO_GoogleColab_Step-9.jpg)
 
 ---
