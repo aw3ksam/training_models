@@ -12,7 +12,7 @@ This guide will walk you through setting up and fine-tuning an LLM using the Uns
 ---
 
 ## Prerequisites: Get Your Hugging Face Token
-Before you begin, you will need a Hugging Face token to download base models and (optionally) push your trained model back to the hub.
+Before you begin, you will need a Hugging Face token to download base models and push your trained model back to the hub.
 
 1. Go to Hugging Face and log in to your profile.
 ![Step 1](Unsloth_GoogleColab_Visual_Guide/asset/Unsloth_STUDIO_GoogleColab_Step-1.jpeg)
